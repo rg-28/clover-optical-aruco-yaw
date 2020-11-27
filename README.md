@@ -1,4 +1,4 @@
-# clover-drone-optical-yaw
+# clover-optical-aruco-yaw
 
 This repository contains the packages required for optical flow and aruco marker based navigation of COEX clover drone (simulation).
 
